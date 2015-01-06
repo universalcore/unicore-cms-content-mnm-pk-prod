@@ -6,12 +6,12 @@
   "primary_category": "9b13bacc0d3a45459c5d328f5a5e4678", 
   "created_at": "2015-01-05T23:12:18+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-06T10:54:11.470807+00:00", 
+  "modified_at": "2015-01-06T11:39:13.716863+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-prevent-malaria-telugu", 
   "uuid": "f5cc444fd02e4adfb15b693edc27044e"
