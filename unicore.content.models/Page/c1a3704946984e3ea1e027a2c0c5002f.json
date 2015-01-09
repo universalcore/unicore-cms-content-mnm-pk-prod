@@ -6,12 +6,12 @@
   "primary_category": "69941aabdf5d499ab323732be0bc0e1e", 
   "created_at": "2015-01-06T19:26:57+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-09T15:25:42.471756+00:00", 
+  "modified_at": "2015-01-09T15:29:32.030235+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "190011ab859b47d499608bda8a3b9b7f", 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-malaria-hindi", 
   "uuid": "c1a3704946984e3ea1e027a2c0c5002f"
