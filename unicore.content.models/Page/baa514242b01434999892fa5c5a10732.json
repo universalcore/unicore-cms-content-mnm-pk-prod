@@ -6,12 +6,12 @@
   "primary_category": "69941aabdf5d499ab323732be0bc0e1e", 
   "created_at": "2015-01-05T22:41:50+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-09T15:26:51.366172+00:00", 
+  "modified_at": "2015-01-09T15:29:32.220797+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": "8925f1460c7a498fb3d60de01b152b4b", 
   "published": null, 
-  "position": 25, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-malaria-matters-hindi", 
   "uuid": "baa514242b01434999892fa5c5a10732"
