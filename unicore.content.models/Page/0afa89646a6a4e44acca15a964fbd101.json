@@ -6,12 +6,12 @@
   "primary_category": "fc8180d0570c4db7b10af246ef68ab70", 
   "created_at": "2015-01-06T12:11:36+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-14T10:53:49.544953+00:00", 
+  "modified_at": "2015-01-14T11:05:08.629348+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "464068f5fc8945dc8ecf8037b330398f", 
   "published": null, 
-  "position": 3, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "malaria-india-gujarati", 
   "uuid": "0afa89646a6a4e44acca15a964fbd101"
