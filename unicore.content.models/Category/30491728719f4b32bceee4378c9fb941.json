@@ -3,18 +3,18 @@
   "uuid": "30491728719f4b32bceee4378c9fb941", 
   "language": "eng_GB", 
   "title": "Malaria", 
-  "image": "e997ad71a4ca462498a5b5a95c4585c7", 
+  "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "what-malaria", 
   "source": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "featured_in_navbar": false, 
+  "featured_in_navbar": true, 
   "id": null
 }
